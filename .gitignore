@@ -1,6 +1,9 @@
 # vscode
 .vscode/
 
+# pycharm
+.idea
+
 #Docker
 docker-compose.debug.yml
 docker-compose.yml
